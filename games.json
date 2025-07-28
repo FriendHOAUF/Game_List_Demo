@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Pokemon Unbound",
+        "emulator": "mGBA/mGBA.exe",
+        "rom": "GBA/Pokemon Unbound/Pokemon Unbound.gba",
+        "cover": "covers/Pokemon Uubound/1.png",
+        "description": "A fan-made Pokémon game featuring Ash's story.",
+        "screenshots": [
+            "screenshots/Pokemon Unbound/1.png",
+            "screenshots/Pokemon Unbound/2.png",
+            "screenshots/Pokemon Unbound/3.png",
+            "screenshots/Pokemon Unbound/4.png",
+            "screenshots/Pokemon Unbound/5.png",
+            "screenshots/Pokemon Unbound/6.png",
+            "screenshots/Pokemon Unbound/7.png",
+            "screenshots/Pokemon Unbound/8.png",
+            "screenshots/Pokemon Unbound/9.png",
+            "screenshots/Pokemon Unbound/10.png",
+            "screenshots/Pokemon Unbound/25.gif"
+        ]
+    },
+    {
+        "name": "Pokemon Radical Red",
+        "emulator": "mGBA/mGBA.exe",
+        "rom": "GBA/pokemon radical red/Pokemon Radical red.gba",
+        "cover": "covers/pokemon Radical Red/pokemon-radical-red-box-art.png",
+        "description": "A fan-made Pokémon game featuring Ash's story",
+        "screenshots": ""
+    }
+]

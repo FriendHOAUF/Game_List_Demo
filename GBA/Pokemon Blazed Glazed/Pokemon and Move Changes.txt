@@ -1,0 +1,253 @@
+All lists of Pokémon are in National Dex Order
+
+New Pokémon (Pokémon replaced):
+Roselia (Ledian) (Roserade’s already in the game, evolves via Shiny Stone as expected)
+Budew (Ledyba) 
+Rotom (Chinchou)
+Rotom-W (Lanturn)
+Rotom-C (Teddiursa)
+Rotom-H (Ursaring)
+Rotom-F (Voltorb)
+Rotom-S (Electrode)
+Venipede (Krabby)
+Whirlipede (Kingler)
+Scolipede (Pinsir)
+Cottonee (Meowth)
+Whimsicott (Persian)
+Golett (Diglett)
+Golurk (Dugtrio)
+Pawniard (Paras)
+Bisharp (Parasect)
+Larvesta (Spinarak) 
+Volcarona (Ariados)
+Genesect (Zangoose)
+Honedge (Mankey)
+Doublade (Primeape)
+Aegislash (Dunsparce)
+Skrelp (Grimer)
+Dragalge (Muk)
+Goomy (Trapinch)
+Sliggoo  (Vibrava)
+Goodra  (Flygon)
+Phantump (Slugma) (evolves via trade stone)
+Trevenant (Magcargo) 
+Xerneas
+Yveltal
+Zygarde
+
+Xerneas, Yveltal, and Zygarde replace some of the filler slots between Celebi and Treecko.
+However, they are safe to catch, so feel free to do so!
+
+Notable altered Pokémon locations:
+- A different Pokémon is given out instead of Ditto at Oceanview City.
+- Bulbasaur and Squirtle are found in Geminite River, and Charmander is found in the portion of Mt. Stratus accessible from Geminite River.
+- Phantump can be found on Haunted Isle’s outside, and in Espo Forest.
+- Budew can be found in Milkshake Swamp. Roselia can be found at Espo Clearing.
+- Rotom is given by an NPC at Northcoast Town, replacing Glaceon in the original Glazed. It is also available as a rare encounter in Icicle Tunnel and Mt. Dyno.
+- An NPC in Mt. Stratus will give you a different Pokémon after finishing Fusion Labs.
+- Larvesta is found in Mt. Furnace. You can also receive it at a gift in Cape Azure's music hall, but you will have to fight someone first.
+- Cottonee is found in Springside Path.
+- Golett is found in Haunted Rock and Temporal Tower.
+- Venipede is found in Milkshake Swamp and Springside Path. Whirlipede is found in Espo Clearing. Scolipede can be found in Sinistrus Forest.
+- Pawniard can be found in Espo Clearing, Palmtree Park, Safari Zone, and Sinistrus Forest
+- Honedge is found in Haunted Rock, and Espo Forest. Doublade can be found in Sinistrus Forest.
+- Skrelp can be found by Surfing in the Spatial Sea, or on the sea floors of both Tunod and Johto.
+- Goomy can be found by surfing in the Safari Zone, or in Palmtree Park’s grass.
+
+There are many other miscellaneous changes, such as Gligar, Scyther, Yanma, Clefairy and Lickitung being made available in Tunod. See if you can find them!
+
+Evolution changes: All previous evolution methods have been overridden.
+Tangela: Level 38
+Magneton: Level 40
+Eevee-Def: Vaporeon (water stone), Umbreon (moon stone), Leafeon (Leaf stone), or Sylveon (Sun Stone). Also into Eevee-Off by level up
+Eevee-Off: Jolteon (thunderstone), Flareon (fire stone), Espeon(sunstone), or Glaceon (Moon Stone). Into Eevee-Def by level up
+Aipom: Level 33
+Yanma: Level 34
+Gligar: Level 40
+Sneasel: Level 40
+Piloswine: Level 44
+Budew: Level 14
+Skorupi: Level 34
+Riolu: Level 25
+
+Rotom evolves (changes form) via stones (non-reversible): 
+Rotom-W (Water) : Water Stone
+Rotom-H (Fire): Fire Stone
+Rotom-S (Flying): Sun Stone
+Rotom-C (Grass): Leaf Stone
+Rotom-F (Ice): Moon Stone
+
+Joltik: Level 32
+Mienfoo: Level 40
+Pawniard: Level 42
+Deino: Level 30
+Zweilous: Level 54
+Larvesta: Level 49
+Skrelp: Level 42
+There is a secret evolution in the game. Let’s just say that it allows the player to receive something they couldn’t in the original Glazed.
+
+Type changes:
+Bayleef and Meganium: Grass/Fairy
+Quilava and Typhlosion: Fire/Normal
+Croconaw and Feraligatr: Water/Dark
+Ampharos: Electric/Dragon
+Sceptile: Grass/Dragon
+Mismagius: Ghost/Fairy
+Luxray: Electric/Dark
+
+Stat changes:
+All starters have a catch rate of 135
+Beldum has a catch rate of 45
+Pidgeot: +10 attack
+Arbok: +20 HP
+Sandslash: +5 hp, +10 speed
+Rapidash: +5 attack, +10 speed
+Jynx: +10 special attack
+Ditto: +30 defense and special defense, +60 hp
+Flareon: +30 hp, -30 special attack 
+Dratini and Dragonair: -14 attack, +14 special attack
+Jumpluff: +10 attack
+Mantine: +20 HP
+Manectric: + 10 attack
+Kecleon: +20 hp
+Shuppet: +20 speed
+Banette: +30 speed
+Sableye: 50/85/125/85/115/20 (Mega’s Stats)
+Mawile: 50/105/125/55/95/50 (Mega’s Stats)
+Absol: +15 special attack, +15 speed
+Torterra: +5 defense
+Luxray: +7 speed
+Regigigas: -20 attack, +20 special attack, -75 Speed
+Whimsicott: -10 attack, +10 special attack
+Bisharp: +10 speed
+Aegislash: 60/125/150/55/70/60 
+Trevenant: +10 hp
+Scarf Pikachu: 60/100/55/100/80/110 (Raichu’s Stats, +10 attack and special attack)
+
+All extremely powerful legendaries (have 670 or more, excluding Arceus) have had their base stats decreased:
+
+Mewtwo: 86/90/80/144/80/120
+
+Ho-Oh: 96/120/80/90/134/80
+
+Lugia: 96/80/120/80/134/90
+
+Groudon: 90/140/120/90/70/90
+
+Kyogre: 90/90/70/140/120/90
+
+Rayquaza: 95/140/70/130/70/95
+
+Dialga: 90/100/110/140/90/70
+
+Palkia: 70/100/90/140/110/90
+
+Giratina: 140/110/80/110/80/80
+
+Reshiram: 90/100/80/140/100/90
+
+Zekrom: 90/140/100/100/80/90
+
+Kyurem: 105/120/80/120/80/95
+
+Kyurem-B: 105/160/90/110/80/95
+
+Kyurem-W: 105/110/80/160/90/95
+
+Xerneas and Yveltal: 106/111/85/121/88/89
+
+Ability Changes:
+No secondary abilities are present if only one is listed.
+
+Venusaur: Chlorophyll
+Charizard: Tough Claws 
+Blastoise: Mega Launcher
+Beedrill: Adaptability
+Spearow line: Keen Eye/Sniper
+Hitmonchan: Iron Fist
+Horsea Line: Swift Swim/Sniper
+Scyther Line: Technician
+Eevee: Adaptability
+Marill line: Huge Power (only ability)
+Togepi line: Serene Grace (only ability)
+Smeargle: Own Tempo/Technician
+Hitmontop: Intimidate/Technician
+Breloom: Technician
+Infernape: Iron Fist
+Roserade: Natural Cure/Technician
+Ambipom: Technician/Pickup
+Gible and Gabite: Sand Veil/Rough Skin
+Garchomp: Sand Force/Rough Skin
+Skorupi line: Battle Armor/Sniper
+Froslass: Inner Focus
+Rotom-S (Flying): Volt Absorb
+Regigigas: Speed Boost
+Timburr line: Guts/Iron Fist
+Scolipede: Speed Boost
+Golett line: Iron Fist
+Genesect: Clear Body
+Honedge line: Hyper Cutter
+Skrelp line: Adaptability
+Goomy line: Rain Dish/Water Absorb
+
+New moves (moves replaced):
+Drain Kiss (Sweet Kiss)
+Flare Blitz (Sacred Fire)
+Wild Charge (Volt Tackle)
+Aqua Tail (Crabhammer)
+Icicle Crash (Icicle Spear)
+Flash Cannon (Luster Purge)
+Nasty Plot (Torment)
+Dark Pulse (Doom Desire)
+Dragon Pulse (Mist Ball)
+Bug Buzz (Spit Up) 
+X-Scissor (Crush Claw)
+Night Slash (Guilllotine)
+Earth Power (Fissure)
+Air Slash (Air Cutter)
+Iron Head (Slam)
+Power Gem (Egg Bomb)
+Zen Headbutt (Psycho Boost)
+Brave Bird (Aeroblast)
+Snarl (Snore)
+Leaf Storm (Petal Dance)
+Shadow Claw (Shadow Punch)
+Drain Punch (Dynamic Punch)
+Wood Hammer (Bone Club)
+Rock Polish (Sharpen)
+Flame Burst (Stockpile) 
+Bulk Up (Pay Day)
+Ominous Wind (Razor Wind)
+Fire Fang (Comet Punch)
+Ice Fang (Vicegrip)
+Thunder Fang (Bind)
+Sucker Punch (Rolling Kick)
+Roost (Kinesis)
+Hurricane (Magic Coat)
+Bullet Punch (Sky Attack)
+Cotton Guard (Cotton Spore)
+Grass Knot (Meditate)
+Aqua Jet (Skull Bash)
+Sacred Sword (Dizzy Punch)
+
+Poison Jab is already in the game, but is given increased distribution.
+Same goes for Shadow Sneak.
+
+Move changes:
+Knock Off: 80 power
+Covet: Fairy
+Ancientpower, Silver Wind, and Ominous Wind: 15 pp
+Shadow Claw: 80 power
+Astonish: 60 power
+Aerial Ace: 80 power
+Giga Drain and Drain Punch: 15 pp
+Cut: Bug type
+Rock Climb: Rock type
+Rock Slide: 95 accuracy
+Blizzard: 80 accuracy
+Fire Fang, Ice Fang, Thunder Fang: 75 power, don't cause flinches
+Extremespeed: 10 pp
+Hurricane: 20% confuse chance, 80 accuracy (unaffected by rainy or sunny weather)
+Sucker Punch: 10 pp, 60 power (doesn't fail if the opponent uses a status move)
+Cotton Guard: raises +2 defense stages instead of +3 defense
+Sacred Sword: High Crit rate, replacing previous effect

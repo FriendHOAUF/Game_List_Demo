@@ -1,0 +1,57 @@
+Item changes:
+
+- Trade Stones are purchasable from the Northcoast Poke Mart,
+but they can still be gotten for free by getting A+ rank in the
+Skiing minigame.
+
+- If you want to use a Gallade or a Froslass, you can pick up
+a Dawn Stone somewhere before the third gym (it’s hard to miss).
+
+- Dusk Stones, Shiny Stones, and Dawn Stones can be bought in
+Palmtree resort. 
+
+- A Choice Scarf can be found in Team Fusion's lab.
+
+- You can pick between Choice Specs and Choice Band when talking
+to an NPC in Darkwood Town. (yes for band, no for specs)
+
+- Leftovers + Choice items can be bought from the Day/Night Clerks
+in Goldenrod City's underground.
+
+- Some gyms hand out different TMs: 
+Sparky gives Shock Wave instead of Thunderbolt
+Terry gives Dig instead of Earthquake
+Leif gives Giga Drain instead of Solarbeam
+Ernest gives Flamethrower instead of Fire Blast
+Tyson gives Brick Break instead of Focus Punch
+Simon gives out Moonblast instead of Attract
+Bugsy gives out Signal Beam instead of Sludge Bomb.
+
+- The old TMs the Tunod gym leaders handed out are
+still found in the Seaspray Department Store after
+beating the Tunod Elite 4, along with some being
+scattered around Tunod (Thunderbolt for example is
+found in Icicle Tunnel).
+
+- The Fire Blast, Thunder, Blizzard, and Hyper Beam TMs in Seaspray
+Town’s Department Store are replaced by Substitute, Thief, Return,
+and Hidden Power TMs. The former three are now found in Goldenrod’s
+department store, while the Hyper Beam TM had an alternate location
+in the original Glazed.
+
+- Goldenrod's TM selection is revamped overall.
+
+- The girl running around in the Fusion Resort gives a TM09 to you,
+but you can also pick one up at in the Oceanview Park if you missed it. 
+
+- TM 01 now teaches Drain Punch.
+
+- TM 09 now teaches Grass Knot.
+
+- TM 21 now teaches Knock Off
+
+- TM 22 now teaches Earth Power.
+
+- TM 32 now teaches Substitute.
+
+- TM 41 now teaches Signal Beam.

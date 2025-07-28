@@ -1,0 +1,888 @@
+This is just to get a general idea of which Pokémon were buffed compared to the regular Glazed.
+I actually replaced moves in level-ups for the most part, replacing them with moves that were better.
+This means that some level-up sets are a total clustertruck.
+
+Pokémon that are in lowercase = new Pokémon I added in, so they haven’t been buffed from the
+original Glazed due to not existing then. :P
+Any moves that are illegal normally on a Pokémon I have added will be noted.
+
+Pokemon with stone evolutions now have similar level-up patterns with their pre-evos.
+
+Any Pokémon that follows a level-up pattern from a later generation obviously have omitted moves,
+mainly before their level they evolved.
+
+Trust me, you are better off looking through the ROM with a Pokémon editor tool for more details.
+
+BULBASAUR
+IVYSAUR
+VENUSAUR
+Based on XY level-up
+Sludge, Leaf Storm
++ Earth Power by TM
+
+CHARMANDER
+CHARMELEON
+CHARIZARD
+Based on XY level-up
+Dragon Pulse, Dragon Dance, Hurricane
++ Earth Power by TM
+
+SQUIRTLE
+WARTORTLE
+BLASTOISE
+Based on XY level-up
+Aura Sphere, Dark Pulse, Dragon Pulse
+
+CATERPIE
+METAPOD
+BUTTERFREE
+Bug Buzz, Hurricane
+
+WEEDLE
+KAKUNA
+BEEDRILL
+X-Scissor, Poison Jab
++Knock Off by TM
+
+PIDGEY
+PIDGEOTTO
+PIDGEOT
+Double Edge, Brave Bird, Roost
+
+RATTATA
+RATICATE
+Sucker Punch
+
+SPEAROW
+FEAROW
+Roost
+
+EKANS
+ARBOK
+Poison Jab, Elemental Fangs, Poison Fang, Bulk Up, Sucker Punch
+
+PICHU
+PIKACHU
+RAICHU
+Nasty Plot, Can learn Surf and Fly via HM
+
+SANDSHREW
+SANDSLASH
+Based on B2W2 level up
++Knock Off by TM
+
+NIDORAN
+NIDORINA
+NIDOQUEEN
+Poison Jab, Superpower, Earth Power
+
+NIDORAN
+NIDORINO
+NIDOKING
+Poison Jab, Megahorn, Earth Power
+
+CLEFFA
+CLEFAIRY
+CLEFABLE
+Drain Kiss, Moonblast
+
+VULPIX
+NINETALES
+Flame Burst, Dark Pulse, Extrasensory, Nasty Plot, Grass Knot via TM
+
+IGGLYBUFF
+JIGGLYPUFF
+WIGGLYTUFF
+Drain Kiss
+
+ZUBAT
+GOLBAT
+CROBAT
+Poison Jab, Brave Bird, Earlier Poison Fang and Wing Attack, Nasty Plot, Roost
+
+DEINO
+ZWEILOUS
+HYDREIGON
+Dragon Pulse, Dark Pulse, Earth Power, Roost
+
+Pawniard
+Bisharp
+Learns Sacred Sword
+
+JOLTIK
+GALVANTULA
+Pin Missile, Signal Beam, Bug Buzz, Thunder
+
+Golett
+Golurk
+Learns Astonish and Shadow Claw
+
+Cottonee
+Whimsicott
+Learns Nasty Plot
++ Earth Power by TM
+
+PSYDUCK
+GOLDUCK
+Unchanged.
+
+Honedge
+Doublade
+Aegislash
+
+GROWLITHE
+ARCANINE
+Morning Sun, Crunch, Fire Fang, Thunder Fang, Flare Blitz
+
+POLIWAG
+POLIWHIRL
+POLIWRATH
++ Drain Punch by TM
+POLITOED
+Hyper Voice
+
+ABRA
+KADABRA
+ALAKAZAM
+Thunder Wave
+
+MACHOP
+MACHOKE
+MACHAMP
+Fire Punch, Thunder Punch, Drain Punch, Bullet Punch
+
+BELLSPROUT
+WEEPINBELL
+VICTREEBEL
+Leaf Storm, Weather Ball, Knock Off, Leaf Blade
++ Earth Power by TM
+
+TENTACOOL
+TENTACRUEL
+Sludge
+
+GEODUDE
+GRAVELER
+GOLEM
+Rock Polish, Sucker Punch
+
+PONYTA
+RAPIDASH
+Flame Wheel, Flare Blitz, Wild Charge, Megahorn, gets Earthquake via TM
+
+SLOWPOKE
+SLOWBRO
+SLOWKING
+Slack Off
+
+MAGNEMITE
+MAGNETON
+MAGNEZONE
+Flash Cannon, Signal Beam
+
+OSHAWOTT
+DEWOTT
+SAMUROTT
+Aqua Tail, Air Slash, Sacred Sword
+
+SEEL
+DEWGONG
+Signal Beam
+
+Skrelp
+Dragalge
+
+SHELLDER
+CLOYSTER
+Icicle Crash, Rock Blast
+
+GASTLY
+HAUNTER
+GENGAR
+Ominous Wind, Shadow Ball, Will o wisp
+
+ONIX 
+STEELIX
+Curse, Dig, Iron Head, Earthquake, Rock Polish, Rock Slide, Thunder Fang
+
+MIENFOO
+MIENSHAO
+Drain Punch, Knock Off
++ Rock Climb via TM
+
+Venipede
+Whirlipede
+Scolipede
++ Poison Fang
+
+GIRATINA
+Shadow Sneak, Earth Power, Aura Sphere
+
+HEATRAN
+Flash Cannon, Iron Head
+
+SKORUPI
+DRAPION
+Elemental Fangs, Night Slash, Poison Jab, Swords Dance
+
+CUBONE
+MAROWAK
+Iron Head
+
+TYROGUE
+Unchanged.
+HITMONLEE
+Blaze Kick
+HITMONCHAN
+Drain Punch, Bullet Punch
+HITMONTOP
+Sucker Punch
+
+LICKITUNG
+LICKILICKY
+Explosion
+
+KOFFING
+WEEZING
+Will O Wisp, Sludge Bomb
+
+RHYHORN
+RHYDON
+RHYPERIOR
+Rock Polish, Elemental Fangs
+
+CHANSEY
+BLISSEY
+Unchanged 
+
+TANGELA
+TANGROWTH
+Knock Off, Giga Drain, Leaf Storm
++ Earth Power by TM
+
+
+KANGASKHAN
+Low Kick, Sucker Punch, Crunch
+
+HORSEA
+SEADRA
+KINGDRA
+Dragon Pulse, Outrage
+
+GOLDEEN
+SEAKING
+Megahorn
+
+STARYU 
+STARMIE
+Power Gem
+
+MANAPHY
+Nasty Plot
+
+SCYTHER
+SCIZOR
+X-Scissor, Iron Head, Knock Off, Roost, Sacred Sword (only as a Scyther), Bullet Punch
+
+SMOOCHUM
+JYNX
+
+ELEKID
+ELECTABUZZ
+ELECTIVIRE
+Follow B2W2 level-up for Elekid and Electabuzz, Fire Punch, Ice Punch, Wild Charge, Cross Chop
+
+MAGBY
+MAGMAR
+MAGMORTAR
+Flame Burst, Dark Pulse
++Earth Power by TM
+
+TAUROS
+Unchanged.
+
+MAGIKARP
+GYARADOS
+Aqua Tail, Crunch, Ice Fang
+
+LAPRAS
+Unchanged.
+
+DITTO
+Unchanged.
+
+Def-EEVEE
+Grass Knot via TM
+Off- Eevee
+
+VAPOREON
+Baton Pass
++Grass Knot and Moonblast via TM
+
+JOLTEON
+Signal Beam, Baton Pass
++Grass Knot and Moonblast via TM
+
+FLAREON
+Flare Blitz, Flame Wheel, Fire Fang, Baton Pass,
++Grass Knot, Knock Off, Moonblast via TM
+
+PORYGON
+PORYGON2
+PORYGON-Z
+Swift, Nasty Plot
+
+OMANYTE
+OMASTAR
+Power Gem
+
+KABUTO
+KABUTOPS
+Aqua Jet, Rock Tomb, Rock Slide, Swords Dance
+
+AERODACTYL
+Brave Bird, Roost
+
+SNORLAX
+Crunch
+
+ARTICUNO
+Hurricane, Extrasensory, Roost
+
+ZAPDOS
+Extrasensory, Roost
+
+MOLTRES
+Hurricane, Extrasensory, Roost
++ Earth Power
+
+DRATINI
+DRAGONAIR
+DRAGONITE
+Dragon Pulse, Aqua Tail, Hurricane, Extremespeed, Roost
+
+MEWTWO
+Aura Sphere
+
+MEW
+Aura Sphere
+
+CHIKORITA
+BAYLEEF
+MEGANIUM
+Based on HGSS level-up
+Drain Kiss, Moonblast, Calm Mind
+
+CYNDAQUIL
+QUILAVA
+TYPHLOSION
+Based on HGSS level-up
+Mud Shot, Earth Power
+
+TOTODILE
+CROCONAW
+FERALIGATR
+Based on HGSS level-up
+Dragon Dance, Aqua Jet
+
+SENTRET
+FURRET
+Unchanged.
+
+HOOTHOOT
+NOCTOWL
+Roost
+
+Budew
+Roselia
+ROSERADE
+Poison Jab, Extrasensory, Sleep Powder, Ancientpower
++Earth Power by TM
+
+Larvesta
+Volcarona
+X-Scissor (Larvesta)
++ Earth Power by TM
+
+Rotom
+Unchanged.
+
+Rotom-W
+Bubblebeam
+
+Rotom-C
+Magical Leaf
+
+Rotom-H
+Flame Burst
+
+Rotom-S
+Hurricane
+
+Rotom-F
+Aurora Beam
+
+TOGEPI
+TOGETIC
+TOGEKISS
+Drain Kiss, Nasty Plot, Baton Pass, Ancient Power, Thunder Wave, Air Slash, Roost
+
+AXEW
+FRAXURE
+HAXORUS
+Poison Jab, Night Slash
+
+MAREEP
+FLAAFFY
+AMPHAROS
+Follow B2W2, Sand-Attack, Dragon Breath, Dragon Pulse, Agility
+
+MARILL
+AZUMARILL
+Covet, Aqua Jet, Aqua Tail
+
+SUDOWOODO
+Wood Hammer, Sucker Punch
+
+HOPPIP
+SKIPLOOM
+JUMPLUFF
+Aerial Ace, Bullet Seed, Swords Dance, Cotton Guard
+
+AIPOM
+AMBIPOM
+Covet
+
+SCRAGGY
+SCRAFTY
+Dragon Dance
+
+YANMA
+YANMEGA
+Silver Wind, Bug Buzz, Air Slash
+
+WOOPER
+QUAGSIRE
+Unchanged.
+
+ESPEON
+Baton Pass
+
+UMBREON
+Snarl, Bite, Sucker Punch, Baton Pass
+Learns Grass Knot by TM
+
+MURKROW
+HONCHKROW
+Night Slash, Brave Bird,Sucker Punch, Roost, Heat Wave
+
+MISDREAVUS
+MISMAGIUS
+Ominous Wind, Drain Kiss, Power Gem, Moonblast, Nasty Plot
+
+UNOWN
+Unchanged.
+
+WYNAUT
+WOBBUFFET
+Unchanged.
+
+MAWILE
+Elemental Fangs, Iron Head, Covet, Sucker Punch, Swords Dance
+
+PINECO
+FORRETRESS
+Iron Head
+
+GLIGAR
+GLISCOR
+Wing Attack, Knock Off, Night Slash, Elemental Fangs, X-Scissor, Roost
+
+SNUBBULL
+GRANBULL
+Covet, Bulk Up, Elemental Fangs
+
+Sylveon (follows a similar pattern to Gen3 Eeveelution)
++Grass Knot via TM
+
+SHUCKLE
+Unchanged.
+
+HERACROSS
+Night Slash, Swords Dance, Drain Punch via TM
+
+SNEASEL
+WEAVILE
+Ice Punch, Low Kick, Night Slash, Swords Dance, Icicle Crash
+
+Phantump
+Trevenant
++ Earth Power by TM
+
+SWINUB
+PILOSWINE
+MAMOSWINE
+Ice Fang, Icicle Crash
+
+Goomy
+Sliggoo
+Goodra
++Giga Drain
+
+DELIBIRD
+Unchanged.
+
+MANTINE
+Air Slash
+
+SKARMORY
+Brave Bird, Iron Head
+
+HOUNDOUR
+HOUNDOOM
+Nasty Plot, Dark Pulse, Snarl, Fire Fang, Thunder Fang
+
+PHANPY
+DONPHAN
+Elemental Fangs
+
+SMEARGLE
+Unchanged.
+
+MILTANK
+Unchanged.
+
+RAIKOU
+Aura Sphere, Extremespeed, Thunder Fang, Extrasensory
+
+ENTEI
+Flare Blitz, Extremespeed, Fire Fang, Extrasensory
++Earth Power by TM
+
+SUICUNE
+Air Slash, Extremespeed, Ice Fang, Extrasensory
+
+LARVITAR
+PUPITAR
+TYRANITAR
+Dragon Dance, Rock Polish
+
+LUGIA
+Hurricane, Roost
+
+HO-OH
+Brave Bird, Flare Blitz, Roost
+
+CELEBI
+Unchanged.
+
+PIKACHU
+Agility, Drain Kiss, Shock Wave, Meteor Mash, Wild Charge, Icicle Crash, Extremespeed, Thunderbolt
+
+TIMBURR
+GURDURR
+CONKELDURR
+Mach Punch, Bulk Up, Drain Punch, Poison Jab, Fire Punch, Thunder Punch
+
+DRUDDIGON
+Sucker Punch, Fire Fang, Thunder Fang
+
+KYUREM-B
+Compatible with Ice Punch tutor.
+
+KYUREM-W
+Unchanged.
+
+CHESPIN
+QUILLADIN
+CHESNAUGHT
+Drain Punch, Seed Bomb, Bulk Up, Wood Hammer
++ Earth Power by TM
+
+FENNEKIN
+BRAIXEN
+DELPHOX
+Extrasensory, Will-o-wisp
+
+FROAKIE
+FROGADIER
+GRENINJA
+Night Slash, Dark Pulse
+
+Xerneas
++ Calm Mind
+Yveltal
+Zygarde
++ Bulk Up
+
+TREECKO
+GROVYLE
+SCEPTILE
+(Grovyle and Sceptile follow pattern of ORAS level-up)
+Dragon Claw, Dragon Pulse, Leaf Storm, X-Scissor, Swords Dance, Leech Seed
+
+TORCHIC
+COMBUSKEN
+BLAZIKEN
+(Blaziken only follows pattern of ORAS level-up)
+Bulk Up, Shadow Claw, Hi-Jump-Kick, Flare Blitz, Swords Dance, Drain Punch by TM
+
+MUDKIP
+MARSHTOMP
+SWAMPERT
+(Follows pattern of ORAS level-up)
+Water Pulse, Yawn, Low Kick
+
+POOCHYENA
+MIGHTYENA
+Elemental Fangs, Sucker Punch
+
+ZIGZAGOON
+LINOONE
+Extremespeed, Shadow Claw
+
+SNIVY
+SERVINE
+SERPERIOR
+Nasty Plot, Dragon Pulse, Power Gem, Bulk Up, Nasty Plot
++ Earth Power by TM
+
+LEAFEON (follows a similar pattern to Gen3 Eeveelution)
+Baton Pass, Cotton Guard
++Earth Power by TM
+
+TURTWIG
+GROTLE
+TORTERRA
+Rock Polish, Wood Hammer
+
+CHIMCHAR
+MONFERNO
+INFERNAPE
+Fire Punch, Jump Kick, Swords Dance, Will-o-Wisp, Flare Blitz, Drain Punch by TM
++Superpower by tutor
+
+NINCADA
+NINJASK
+X-Scissor, Aerial Ace
+SHEDINJA
+Shadow Sneak, Shadow Claw, X-Scissor
+
+TAILLOW
+SWELLOW
+Based on ORAS level-up
+Roost, Double-Edge
+
+SHROOMISH
+BRELOOM
+Based on ORAS level-up
+Bullet Seed, Drain Punch, Spore as a Breloom
++ Earth Power by TM
+
+SPINDA
+Sucker Punch
+
+WINGULL
+PELIPPER
+Based on ORAS level-up
+Icy Wind, Knock Off, Roost
+
+COBALION
+Flash Cannon, Iron Head, Sacred Sword +Brick Break by TM
+
+TERRAKION
+Sacred Sword, +Brick Break by TM
+
+VIRIZION
+Sacred Sword, Leaf Blade, +Brick Break by TM
+
+KELDEO
+Aura Sphere, Aqua Jet, Aqua Tail, Icy Wind
+
+RIOLU
+LUCARIO
+Crunch, Dragon Pulse, Hi-Jump-Kick, Dark Pulse, Nasty Plot, Flash Cannon, Bullet Punch
+
+KECLEON
+Shadow Claw, Shadow Sneak
+
+ZORUA
+ZOROARK
+Dark Pulse, Snarl, Extrasensory, Nasty Plot
+
+SABLEYE
+Shadow Claw, Shadow Sneak, Snarl, Will-O-Wisp
+
+BUIZEL
+FLOATZEL
+(Follows B2W2 level pattern)
+Brick Break, Ice Fang, Aqua Tail
+
+FEEBAS
+MILOTIC
+Unchanged.
+
+GIBLE
+GABITE
+GARCHOMP
+Swords Dance, Outrage
+
+CRESSELIA
+Unchanged.
+
+DARKRAI
+Snarl, Dark Pulse
+
+SHAYMIN
+Unchanged.
+
+GLACEON (follows a similar pattern to Gen3 Eeveelution)
+Calm Mind, Baton Pass,
++Surf by HM Grass Knot and Moonblast by TM
+
+ELECTRIKE
+MANECTRIC
+Based on ORAS level-up
+Flame Burst, Snarl, Fire Fang, Ice Fang, Crunch, Overheat
+
+PIPLUP
+PRINPLUP
+EMPOLEON
+Icy Wind, Yawn, Flash Cannon, Aqua Jet, Power Gem, Agility, 
+
+UXIE
+Unchanged.
+
+SNORUNT
+GLALIE
+Ice Fang
+
+FROSLASS
+Ice Fang, Drain Kiss, Ominous Wind, 
+
+VICTINI
+Flare Blitz, Zen Headbutt, Wild Charge, Will-O-Wisp
+
+MESPRIT
+Unchanged.
+
+PALKIA
+Hydro Pump, Earth Power, Power Gem, Dragon Pulse 
+
+ZEKROM
+Thunder Fang, Wild Charge
+
+RESHIRAM
+Fire Fang
+
+KYUREM
+Earth Power
+
+REGIGIGAS
+Iron Head, Knock Off, Double-Edge
+
+AZELF
+Unchanged
+
+TEPIG
+PIGNITE
+EMBOAR
+Flame Wheel, Rollout, Fire Punch, Brick Break, Wild Charge, Flare Blitz, Drain Punch by TM
+
+CROAGUNK
+TOXICROAK
+Brick Break, Knock Off, Poison Jab, Nasty Plot, Sucker Punch, Swords Dance
+
+DIALGA
+Flash Cannon, Earth Power, Power Gem, Dragon Pulse 
+
+SHINX
+LUXIO
+LUXRAY
+Elemental Fangs, Night Slash, Wild Charge, Sucker Punch
+
+CLAMPERL
+HUNTAIL
+Ice Fang
+GOREBYSS
+Unchanged.
+
+ABSOL
+Night Slash, Knock Off, Sucker Punch, Sacred Sword
+
+SHUPPET
+BANETTE
+Shadow Sneak, Shadow Claw, can learn Drain Punch via TM
+
+SEVIPER
+Poison Jab, Bulk Up
+
+Genesect
+
+ARON
+LAIRON
+AGGRON
+Aqua Tail, Rock Slide, Rock Tomb, Iron Head, Rock Polish
+
+CASTFORM
+Unchanged.
+
+LILEEP
+CRADILY
+(Follows ORAS Level-up)
+Recover
+
+ANORITH
+ARMALDO
+(Follows ORAS Level-up)
+Rock Tomb, Knock Off, Rock Slide, Aqua Tail, Aqua Jet, Swords Dance
++Rock Climb by TM
+
+RALTS
+KIRLIA
+Based on ORAS level-up
+Disable, Encore, Drain Kiss
+GARDEVOIR
+Will-O-Wisp, Destiny Bond, Mean Look
+GALLADE
+Bulk Up, Will-O-Wisp, Zen Headbutt, Shadow Sneak, Sacred Sword, Knock Off
+
+BAGON
+SHELGON
+SALAMENCE
+Based on ORAS level-up
+Hydro Pump, Elemental Fangs, Roost, Dragon Dance 
+
+BELDUM
+METANG
+METAGROSS
+Based on ORAS level-up
+Iron Head, Rock Polish, Explosion
+
+REGIROCK
+Rock Slide
+
+REGICE
+Ice Beam
+
+REGISTEEL
+Iron Head
+
+KYOGRE
+GROUDON
+Unchanged.
+
+RAYQUAZA
+Brave Bird
+
+LATIAS
+LATIOS
+Dragon Pulse, Roost
+
+JIRACHI
+Iron Head, Zen Headbutt
+
+ARCEUS
+Swords Dance
+
+DEOXYS
