@@ -28,6 +28,10 @@ def Game_page(game):
     page_game.geometry("1440x800")
     page_game.title(game['name'])
 
+    def Back_page():
+        page_game.destroy()
+# function back covers page
+
 
     # Cover Image
     images = Image.open(game['cover']).resize((300, 250))
@@ -40,6 +44,17 @@ def Game_page(game):
     original_image = Image.open("Image/17762.png")
     resized_image = original_image.resize((32, 32), Image.LANCZOS)
     play_icon = ImageTk.PhotoImage(resized_image)
+
+    back_img = Image.open("Image/R.png")
+    bacm_re_image = back_img.resize((32, 32), Image.LANCZOS)
+    back_icon = ImageTk.PhotoImage(bacm_re_image)
+
+    Back_button = Button(page_game, 
+                         image=back_icon,
+                         compound="left",
+                         command=Back_page)
+    Back_button.grid(row=0, column=0)
+    Back_button.image = back_icon
 
     button = Button(page_game, text="Play",
                     font=("Arial", 20),
